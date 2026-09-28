@@ -77,17 +77,3 @@ O sistema trata ID duplicado, ID inválido, registros inexistentes, lista vazia 
 Abra o projeto em uma IDE compatível com Java e execute:
 
 `src/br/edu/aesa/app/Main.java`
-
-## 🎥 Demonstração sugerida
-
-Para o vídeo, demonstre:
-
-1. Cadastro de pelo menos 3 veículos;
-2. Listagem dos veículos;
-3. Busca de um ID existente;
-4. Busca de um ID inexistente;
-5. Atualização de um veículo;
-6. Nova listagem para comprovar a alteração;
-7. Remoção de um veículo;
-8. Nova listagem para comprovar a exclusão;
-9. Encerramento pelo menu.
